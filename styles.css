@@ -90,7 +90,12 @@ p {
 
 .result {
     font-size: 40px;
+}
+
+.var{
+    font-size: 26px;
     margin-bottom: 30px;
+color: rgb(60, 58, 58);
 }
 
 .win span {
